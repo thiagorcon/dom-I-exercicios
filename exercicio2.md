@@ -1,5 +1,4 @@
 # Exercício 2
 
-Crie um campo label e um campo input na página HTML, e preencha o campo com o nome de mais uma fruta.
-Depois disso, escreva o código necessário para que seja possível imprimir o valor do input escrito no console.
-
+Crie um `label` e um `input` na página HTML e, depois, preencha o campo de texto com o nome de mais uma fruta.
+Agora, escreva o código necessário para que seja possível imprimir no console o valor escrito no input.
